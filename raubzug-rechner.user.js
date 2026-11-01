@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        DS: Raubzug Rechner
 // @version     1.1.2
-// @namespace   Ichaelus
-// @author      Ichaelus
-// @copyright   Ichaelus
+// @namespace   panetun
+// @author      panetun
+// @copyright   panetun
 // @description Display an "optimal" inline unit distrubution for the different scavenge options
-// @updateURL   https://raw.githubusercontent.com/Ichaelus/ds-raubzug-rechner/main/raubzug-rechner.user.js
+// @updateURL   https://raw.githubusercontent.com/panetun/ds-raubzug-rechner/main/raubzug-rechner.user.js
 // @include     *.die-staemme.de*
 // @exclude     *.die-staemme.de
 // @include     *.tribalwars.net*
